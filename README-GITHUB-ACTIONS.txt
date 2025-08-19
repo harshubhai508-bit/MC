@@ -1,6 +1,6 @@
 Stronghold Finder - Fabric 1.16.1 (GitHub Actions build)
 -------------------------------------------------------
-This version includes a GitHub Actions workflow that will build the mod on every push
+This version includes a GitHub Actions workflow thatwill build the mod on every push
 and save the compiled jar as a workflow artifact you can download.
 
 Steps to get a compiled .jar with zero local setup:
